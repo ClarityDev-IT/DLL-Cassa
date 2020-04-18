@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMultiDriver", "TestMultiDriver\TestMultiDriver.csproj", "{16F1FF22-1A15-4700-A3F3-21DCB6E8B607}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ClarityMultiDriver", "ClarityMultiDriver\ClarityMultiDriver.vdproj", "{020B6515-9E8F-45F8-9984-33EE90DC9404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F1FF22-1A15-4700-A3F3-21DCB6E8B607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F1FF22-1A15-4700-A3F3-21DCB6E8B607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F1FF22-1A15-4700-A3F3-21DCB6E8B607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F1FF22-1A15-4700-A3F3-21DCB6E8B607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020B6515-9E8F-45F8-9984-33EE90DC9404}.Debug|Any CPU.ActiveCfg = Debug
+		{020B6515-9E8F-45F8-9984-33EE90DC9404}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E10166D-2E36-4725-A967-434CAD3A7F54}
+	EndGlobalSection
+EndGlobal
